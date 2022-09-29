@@ -1,0 +1,19 @@
+{
+  "name": "griffel-filter-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@griffel/babel-preset": "^1.3.7",
+    "@griffel/core": "^1.6.0"
+  }
+}

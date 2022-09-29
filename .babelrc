@@ -1,0 +1,15 @@
+{
+  "presets": [
+    [
+      "@griffel",
+      {
+        "modules": [
+          {
+            "moduleSource": "@griffel/core",
+            "importName": "makeStyles"
+          }
+        ]
+      }
+    ]
+  ]
+}
